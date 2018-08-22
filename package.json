@@ -1,0 +1,16 @@
+{
+  "name": "cool-address-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pretty-hrtime": "^1.0.3",
+    "stellar-sdk": "^0.10.3"
+  }
+}
